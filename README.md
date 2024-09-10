@@ -5,9 +5,6 @@ Ingeniera Informática de Gestión y Sistemas de Información de la UPV-EHU, con
 ### Formación
 Grado en Ingeniería Informática de Gestión y Sistemas de Información 2020-2024 en UPV/EHU
 
-### Experiencia
-
-Estudiante en prácticas en 2024 en HiTZ Zentroa. Entre las funciones realizadas destaca el entrenamientos de modelos de Inteligencia Artificial para la detección de secciones en narrativas clínicas no estructuradas.
 
 ### Herramientas principales con las que se ha trabajado:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
